@@ -1,0 +1,118 @@
+Webcam Security Logs
+---------------------
+Password generated: fjgCpCaW - 2025-07-03 11:16:31
+Camera Disabled - 2025-07-03 11:39:39
+Camera Enabled - 2025-07-03 11:39:43
+Intruder Detected & Recorded - 2025-07-03 11:39:55
+Intruder Detected & Recorded - 2025-07-03 12:49:21
+Camera Enabled - 2025-07-03 12:51:25
+Camera Disabled - 2025-07-03 12:51:29
+Camera Enabled - 2025-07-03 12:51:46
+Camera Disabled - 2025-07-03 12:51:54
+Password randomly reset to: 8b%3bk2D#r9F - 2025-07-03 18:54:23
+Password manually changed by user. - 2025-07-03 18:54:46
+Password randomly reset to: 64cQjEn&Ae^e - 2025-07-03 19:20:25
+Intruder Detected & Recorded - 2025-07-03 19:22:53
+Intruder recorded - Saved: intruder_2025-07-07_10-33-09.avi - 2025-07-07 10:33:22
+Intruder recorded - Saved: intruder_2025-07-07_10-33-20.avi - 2025-07-07 10:33:33
+Intruder recorded - Saved: intruder_2025-07-07_10-36-09.avi - 2025-07-07 10:36:22
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_11-01-15.avi - 2025-07-07 11:01:28
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_11-20-01.avi - 2025-07-07 11:20:14
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_11-46-18.avi - 2025-07-07 11:46:31
+New Face Registered - 2025-07-07 11:57:05
+New Face Registered - 2025-07-07 11:58:36
+Unauthorized Access - Wrong Password - 2025-07-07 12:09:36
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_12-09-41.avi - 2025-07-07 12:09:54
+New Face Registered: pavani - 2025-07-07 12:10:46
+Unauthorized Access - Wrong Password - 2025-07-07 12:11:14
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_12-11-21.avi - 2025-07-07 12:11:33
+Access granted via face recognition - 2025-07-07 12:16:37
+Logs Accessed - 2025-07-07 12:16:37
+Unauthorized Access - Wrong Password - 2025-07-07 16:06:15
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_16-06-22.avi - 2025-07-07 16:06:35
+Unauthorized Access - Wrong Password - 2025-07-07 18:04:47
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_18-04-52.avi - 2025-07-07 18:05:05
+Logs Accessed - 2025-07-07 18:06:33
+Checked Webcam Status: Enabled - 2025-07-07 18:12:02
+Unauthorized Access - Wrong Password - 2025-07-07 18:13:16
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_18-13-21.avi - 2025-07-07 18:13:34
+Camera Disabled - 2025-07-07 21:08:37
+Unauthorized Access - Wrong Password - 2025-07-07 21:11:05
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_21-11-10.avi - 2025-07-07 21:11:24
+Unauthorized Access - Wrong Password - 2025-07-07 21:12:46
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_21-12-51.avi - 2025-07-07 21:13:04
+Camera Enabled - 2025-07-07 21:13:29
+Unauthorized Access - Wrong Password - 2025-07-07 21:16:56
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_21-17-03.avi - 2025-07-07 21:17:17
+New Face Registered: pavani - 2025-07-07 21:21:09
+New Face Registered: pavani - 2025-07-07 21:22:47
+Unauthorized Access - Wrong Password - 2025-07-07 21:43:54
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_21-43-58.avi - 2025-07-07 21:44:11
+Unauthorized Access - Wrong Password - 2025-07-07 21:49:38
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_21-49-43.avi - 2025-07-07 21:49:55
+Password Changed - 2025-07-07 21:51:43
+Random Password Generated - 2025-07-07 21:55:51
+Random Password Generated - 2025-07-07 21:58:28
+Unauthorized Access - Wrong Password - 2025-07-07 21:58:50
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_21-58-55.avi - 2025-07-07 21:59:07
+Unauthorized Access - Wrong Password - 2025-07-07 21:59:46
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_21-59-52.avi - 2025-07-07 22:00:04
+Random Password Generated - 2025-07-07 22:00:22
+Unauthorized Access - Wrong Password - 2025-07-07 22:13:16
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_22-13-21.avi - 2025-07-07 22:13:33
+Unauthorized Access - Wrong Password - 2025-07-07 22:13:41
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-07_22-13-46.avi - 2025-07-07 22:13:59
+Camera Disabled - 2025-07-07 22:14:14
+New Face Registered: pavani - 2025-07-07 22:16:46
+Unauthorized Access - Wrong Password - 2025-07-17 22:30:54
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-17_22-30-58.avi - 2025-07-17 22:31:00
+Unauthorized Access - Wrong Password - 2025-07-17 22:44:16
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-17_22-44-31.avi - 2025-07-17 22:44:33
+Unauthorized Access - Wrong Password - 2025-07-17 23:00:27
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-17_23-00-36.avi - 2025-07-17 23:00:38
+Unauthorized Access - Wrong Password - 2025-07-17 23:02:10
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-17_23-02-16.avi - 2025-07-17 23:02:28
+Unauthorized Access - Wrong Password - 2025-07-18 21:24:51
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-18_21-24-57.avi - 2025-07-18 21:25:10
+Checked Webcam Status: Enabled - 2025-07-18 21:59:11
+Unauthorized Access - Wrong Password - 2025-07-18 21:59:37
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-18_21-59-43.avi - 2025-07-18 21:59:56
+Unauthorized Access - Wrong Password - 2025-07-18 22:00:18
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-18_22-00-24.avi - 2025-07-18 22:00:36
+New Face Registered: sandhya - 2025-07-18 22:01:02
+Access granted via face recognition - 2025-07-18 22:01:23
+Password Changed - 2025-07-18 22:01:34
+Logs Accessed - 2025-07-18 22:02:19
+Unauthorized Access - Wrong Password - 2025-07-18 22:42:33
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-18_22-42-38.avi - 2025-07-18 22:42:51
+Checked Webcam Status: Enabled - 2025-07-18 22:47:08
+Camera Enabled - 2025-07-18 22:50:08
+Camera Enabled - 2025-07-18 22:51:07
+Camera Enabled - 2025-07-18 22:51:23
+New Face Registered: pavani - 2025-07-18 22:51:39
+Access granted via face recognition - 2025-07-18 22:53:00
+Access granted via face recognition - 2025-07-18 22:53:34
+Password Changed - 2025-07-18 22:54:06
+Unauthorized Access - Wrong Password - 2025-07-18 22:54:33
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-18_22-54-39.avi - 2025-07-18 22:54:51
+Access granted via face recognition - 2025-07-18 22:54:59
+Random Password Generated - 2025-07-18 22:55:14
+Unauthorized Access - Wrong Password - 2025-07-19 01:35:36
+Wrong Password Intruder recorded - Saved: unauth_intruder_2025-07-19_01-35-41.avi - 2025-07-19 01:35:48
+Logs Accessed - 2025-07-19 01:36:07
+Checked Webcam Status: Enabled - 2025-12-28 10:04:53
+Checked Webcam Status: Enabled - 2025-12-28 10:04:58
+Checked Webcam Status: Enabled - 2025-12-28 10:55:31
+New Face Registered: Govardhan - 2025-12-28 10:55:46
+Checked Webcam Status: Enabled - 2025-12-28 10:58:29
+New Face Registered: Govardhan - 2025-12-28 11:01:39
+Checked Webcam Status: Enabled - 2025-12-28 11:07:50
+Checked Webcam Status: Enabled - 2025-12-28 11:08:26
+Checked Webcam Status: Enabled - 2025-12-28 11:08:55
+Checked Webcam Status: Enabled - 2025-12-28 11:24:44
+Logs Accessed - 2025-12-28 11:29:37
+Checked Webcam Status: Enabled - 2025-12-28 11:30:57
+Camera Disabled - 2025-12-28 11:35:49
+Camera Enabled - 2025-12-28 11:39:03
+Random Password Generated - 2025-12-28 11:42:09
+Password Changed - 2025-12-28 11:42:43
